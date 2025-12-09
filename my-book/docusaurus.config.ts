@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
   
 url: 'https://naeemsobia.github.io',
-baseUrl: '/my-book/',
+baseUrl: '/',
 
 
 
