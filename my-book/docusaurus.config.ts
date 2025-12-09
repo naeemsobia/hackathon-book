@@ -6,9 +6,11 @@ const config: Config = {
   title: 'Physical AI and Humanoid Robotics',
   tagline: 'A Foundational Treatise',
   favicon: 'img/favicon.ico',
+  
+url: 'https://naeemsobia.github.io',
+baseUrl: '/my-book/',
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+
 
   organizationName: 'your-org',
   projectName: 'robotics-book',
