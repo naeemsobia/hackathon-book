@@ -12,8 +12,8 @@ baseUrl: '/my-book/',
 
 
 
-  organizationName: 'your-org',
-  projectName: 'robotics-book',
+  organizationName: 'naeemsobia',
+  projectName: 'my-book',
 
   onBrokenLinks: 'throw',
 
