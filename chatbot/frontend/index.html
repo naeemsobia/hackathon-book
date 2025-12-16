@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Chatbot</title>
+    <style>
+        body { font-family: sans-serif; }
+        #chat-container { width: 400px; margin: 20px auto; border: 1px solid #ccc; padding: 10px; }
+        #messages { height: 300px; overflow-y: scroll; border-bottom: 1px solid #ccc; margin-bottom: 10px; }
+        #user-input { display: flex; }
+        #message-input { flex-grow: 1; }
+    </style>
+</head>
+<body>
+    <div id="chat-container">
+        <div id="messages"></div>
+        <div id="user-input">
+            <input type="text" id="message-input" placeholder="Type a message...">
+            <button id="send-button">Send</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -7,11 +7,11 @@ const config: Config = {
   tagline: 'A Foundational Treatise',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://naeemsobia.github.io',
   baseUrl: '/',
 
-  organizationName: 'your-org',
-  projectName: 'robotics-book',
+  organizationName: 'naeemsobia',
+  projectName: 'my-book',
 
   onBrokenLinks: 'throw',
 
@@ -49,6 +49,11 @@ const config: Config = {
           sidebarId: 'bookSidebar',
           position: 'left',
           label: 'Chapters',
+        },
+        {
+          to: '/chatbot',
+          label: 'Chatbot',
+          position: 'left',
         },
       ],
     },

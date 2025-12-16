@@ -10,6 +10,11 @@
 
 
 
+
+
+
+
+
 The book is organized into four parts, each containing several chapters. Each chapter is further divided into three lessons.
 
 ### Part 1: Foundations
